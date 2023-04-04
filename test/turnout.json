@@ -1,0 +1,6914 @@
+{
+  "wards": {
+    "1": {
+      "precints": {
+        "1": {
+          "registered": 1512,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1471,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1586,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1518,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1675,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1410,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1722,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1448,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 932,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1855,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1770,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 786,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1129,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1089,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1631,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1615,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1031,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1640,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1532,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1354,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1431,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1905,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 962,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1941,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1899,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1707,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 38551,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "2": {
+      "precints": {
+        "1": {
+          "registered": 1779,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1847,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1443,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1572,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1327,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1637,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1602,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1138,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1684,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1072,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1421,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1799,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1028,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1269,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1398,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1900,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1406,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 765,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 854,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 280,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1221,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1304,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 940,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1540,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33564,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "3": {
+      "precints": {
+        "1": {
+          "registered": 1838,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1257,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1178,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1109,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 412,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1550,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 706,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1724,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 948,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 916,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1952,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1529,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1442,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1867,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1543,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 674,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 629,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 909,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1760,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1300,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1074,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 898,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 508,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1837,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1823,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1525,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 34246,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "4": {
+      "precints": {
+        "1": {
+          "registered": 1779,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 861,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1033,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1375,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 688,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1046,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 683,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 819,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1462,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 980,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1235,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 785,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 933,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 822,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 847,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1189,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 2009,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 856,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 828,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1428,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 770,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 370,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 783,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1536,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1400,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1892,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1688,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 31909,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "5": {
+      "precints": {
+        "1": {
+          "registered": 1684,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1625,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1736,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1784,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 446,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 642,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 563,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 601,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 486,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 985,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1356,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1227,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 749,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 837,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1919,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1194,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 819,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1772,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 665,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1241,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1221,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1421,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 691,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 855,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1803,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 28322,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "6": {
+      "precints": {
+        "1": {
+          "registered": 797,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 734,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 362,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 846,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1215,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1079,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1271,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 945,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1661,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1275,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 639,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1314,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1126,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1394,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1664,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 893,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1489,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1520,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1390,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1578,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1277,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1918,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1821,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1373,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 870,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1666,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1670,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33787,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "7": {
+      "precints": {
+        "1": {
+          "registered": 1786,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1697,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1485,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1453,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 449,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1408,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 851,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1600,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1315,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1155,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1707,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1695,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1293,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1655,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 662,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 580,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 238,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1351,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 791,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 639,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 838,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 628,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 257,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1026,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1552,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 941,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 579,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 784,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 791,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 323,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 32867,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "8": {
+      "precints": {
+        "1": {
+          "registered": 1836,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 966,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 544,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1555,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 925,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1493,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 898,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1478,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1401,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 2592,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1225,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 946,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1024,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1368,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 873,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1071,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1351,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1799,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1806,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1017,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 891,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 946,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1813,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1068,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 545,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1115,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1203,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1014,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1079,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 1130,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 36972,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "9": {
+      "precints": {
+        "1": {
+          "registered": 1283,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1465,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 555,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1039,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1078,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1455,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1651,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1646,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1221,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1556,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 880,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1408,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1251,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1127,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1349,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1890,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 740,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1134,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1094,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1038,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1808,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1598,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1057,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1229,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1043,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1291,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 679,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1066,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1768,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 1545,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 37944,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "10": {
+      "precints": {
+        "1": {
+          "registered": 748,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 745,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1266,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1399,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 578,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 810,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1180,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1092,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1409,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1237,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 561,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1130,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1298,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1641,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1392,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1658,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1095,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1671,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1158,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 717,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 680,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1460,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1351,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1285,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1357,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 28918,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "11": {
+      "precints": {
+        "1": {
+          "registered": 812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 382,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1903,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1005,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1203,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1465,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1447,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1763,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1557,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 333,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 244,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 388,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1067,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1871,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1647,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1598,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1012,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1555,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 453,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 918,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1405,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1234,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1124,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 26386,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "12": {
+      "precints": {
+        "1": {
+          "registered": 756,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 759,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 901,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 864,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1057,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1093,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 966,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 849,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 454,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1199,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 956,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1003,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 900,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 973,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1209,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1232,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1007,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1253,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 627,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1114,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 907,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1016,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 21095,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "13": {
+      "precints": {
+        "1": {
+          "registered": 736,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 896,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 845,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1020,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 670,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 719,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 623,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 962,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 846,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 857,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 572,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 668,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 653,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 713,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 680,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 880,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1144,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 717,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 550,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 818,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 706,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1032,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 798,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 834,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 731,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 686,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 768,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 718,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 780,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 640,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 567,
+          "voted": 0,
+          "turnout": 0
+        },
+        "33": {
+          "registered": 688,
+          "voted": 0,
+          "turnout": 0
+        },
+        "34": {
+          "registered": 832,
+          "voted": 0,
+          "turnout": 0
+        },
+        "35": {
+          "registered": 926,
+          "voted": 0,
+          "turnout": 0
+        },
+        "36": {
+          "registered": 600,
+          "voted": 0,
+          "turnout": 0
+        },
+        "37": {
+          "registered": 801,
+          "voted": 0,
+          "turnout": 0
+        },
+        "38": {
+          "registered": 659,
+          "voted": 0,
+          "turnout": 0
+        },
+        "39": {
+          "registered": 798,
+          "voted": 0,
+          "turnout": 0
+        },
+        "40": {
+          "registered": 698,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 30643,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "14": {
+      "precints": {
+        "1": {
+          "registered": 1657,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1024,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 847,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 421,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1532,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1795,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1482,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1551,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1769,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1639,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1816,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1125,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1610,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 967,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 956,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 20191,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "15": {
+      "precints": {
+        "1": {
+          "registered": 745,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 978,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 469,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1035,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1145,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1406,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 986,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 856,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 999,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 984,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 926,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1213,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1084,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1011,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1032,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1389,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1457,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1116,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 867,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1015,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 20713,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "16": {
+      "precints": {
+        "1": {
+          "registered": 1421,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 901,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1061,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 699,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1620,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1327,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 832,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 726,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1328,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1081,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 970,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 479,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 578,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1611,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1069,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 929,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1786,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1502,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1200,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1117,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 917,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1185,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1061,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1020,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 469,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 26889,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "17": {
+      "precints": {
+        "1": {
+          "registered": 1498,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 888,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 976,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1087,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 658,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1112,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 599,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 814,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 991,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1514,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1096,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 659,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 900,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 744,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1709,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 837,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 856,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1615,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1361,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1092,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1349,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1527,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1018,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1707,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 705,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1149,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1392,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1715,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1608,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33176,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "18": {
+      "precints": {
+        "1": {
+          "registered": 1525,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1679,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 679,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1125,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1115,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1547,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1154,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1890,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1319,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1632,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1317,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1507,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1630,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1250,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 982,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1559,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1043,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1697,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1108,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1080,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1352,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1343,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1814,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1849,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1243,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1845,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 36284,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "19": {
+      "precints": {
+        "1": {
+          "registered": 1429,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1220,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 991,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1001,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 944,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1058,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1372,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1476,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1126,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 930,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 954,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 963,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1259,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 821,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 922,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 886,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 897,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1036,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 845,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1519,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 987,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1010,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 930,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 896,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 869,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1400,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1752,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1292,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 975,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 1471,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 893,
+          "voted": 0,
+          "turnout": 0
+        },
+        "33": {
+          "registered": 733,
+          "voted": 0,
+          "turnout": 0
+        },
+        "34": {
+          "registered": 1523,
+          "voted": 0,
+          "turnout": 0
+        },
+        "35": {
+          "registered": 1008,
+          "voted": 0,
+          "turnout": 0
+        },
+        "36": {
+          "registered": 878,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 39604,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "20": {
+      "precints": {
+        "1": {
+          "registered": 1153,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 798,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 835,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 463,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1154,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 607,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 719,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 885,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1465,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1739,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1517,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 697,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1588,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1107,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1221,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1154,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1245,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1575,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 750,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1074,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1662,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1860,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 665,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 25933,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "21": {
+      "precints": {
+        "1": {
+          "registered": 1828,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 560,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1599,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1633,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1850,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1855,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1827,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1486,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 460,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1687,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1590,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1105,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1535,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1591,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1800,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1506,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1160,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1624,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1392,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1047,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1654,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1716,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1607,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1407,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1128,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1318,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1771,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1620,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1599,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 42955,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "22": {
+      "precints": {
+        "1": {
+          "registered": 775,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 532,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1037,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 834,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1745,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1082,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1114,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1172,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1154,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1172,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1458,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1011,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1208,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1134,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 668,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1078,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 384,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 804,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1370,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 19732,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "23": {
+      "precints": {
+        "1": {
+          "registered": 563,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 986,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 597,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 437,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 749,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 456,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 692,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 708,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1003,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1131,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 633,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 876,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1602,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1329,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1309,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 661,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1034,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 825,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 736,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 636,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 646,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 670,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 704,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 717,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 507,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 507,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 680,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 825,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 982,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 832,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 779,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 589,
+          "voted": 0,
+          "turnout": 0
+        },
+        "33": {
+          "registered": 1186,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 26587,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "24": {
+      "precints": {
+        "1": {
+          "registered": 790,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 662,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1396,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1398,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1984,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1229,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 731,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 925,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1628,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1136,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1512,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 2001,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1629,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1197,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1185,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 561,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1330,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1663,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 3383,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1085,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 27425,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "25": {
+      "precints": {
+        "1": {
+          "registered": 1649,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1145,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1172,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1445,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1605,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1416,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1635,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1618,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1629,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1780,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1487,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1158,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1552,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1866,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1092,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1498,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 970,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 24717,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "26": {
+      "precints": {
+        "1": {
+          "registered": 924,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 871,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1007,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1349,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1048,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 647,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 993,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1005,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 931,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 777,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 746,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 483,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 538,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 825,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 978,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1275,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 900,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 887,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1041,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1247,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 903,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 969,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1212,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 833,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1195,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1424,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1409,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1032,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1448,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 558,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 1174,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 948,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 31577,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "27": {
+      "precints": {
+        "1": {
+          "registered": 1242,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1576,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1297,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1254,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1390,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1566,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 2037,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1420,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1535,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1138,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1415,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 981,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1156,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1253,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1492,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1797,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 695,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1839,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1071,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 572,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1128,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1141,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 849,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1480,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1353,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1061,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 991,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1730,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 37271,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "28": {
+      "precints": {
+        "1": {
+          "registered": 1163,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1116,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 335,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1014,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 762,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1393,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 935,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1340,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 822,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 944,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1443,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1677,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1211,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1225,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 796,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1752,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1324,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1050,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1340,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1049,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1197,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 949,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1210,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 847,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 2094,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 554,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 29542,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "29": {
+      "precints": {
+        "1": {
+          "registered": 1593,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1461,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 996,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 838,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 907,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1302,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1741,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 950,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1448,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1220,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1529,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1601,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1521,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1539,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1486,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1029,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1639,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1808,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1435,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1263,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1707,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1720,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1271,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33342,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "30": {
+      "precints": {
+        "1": {
+          "registered": 1495,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1106,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 862,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1105,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1603,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 853,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 938,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1307,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1577,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1028,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1618,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1774,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1491,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1268,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1226,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1095,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1235,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1190,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 879,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 852,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1539,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1043,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 893,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1185,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 736,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1388,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 31286,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "31": {
+      "precints": {
+        "1": {
+          "registered": 1181,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1409,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1050,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1005,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1266,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1005,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 982,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1316,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1057,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1366,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1343,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1765,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1224,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1602,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 689,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1167,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1220,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1017,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1173,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1443,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1187,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 646,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 856,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 26969,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "32": {
+      "precints": {
+        "1": {
+          "registered": 1930,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1781,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1257,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1156,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 960,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 585,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1351,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 840,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 852,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1845,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1056,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 628,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 416,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1865,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1848,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 926,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1937,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 990,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 952,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1675,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1678,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1606,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1320,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 682,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1512,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1616,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1634,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 487,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1245,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 1575,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 38205,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "33": {
+      "precints": {
+        "1": {
+          "registered": 1952,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1873,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1594,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1949,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1642,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1805,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1841,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1230,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1662,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1541,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1357,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1817,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1493,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1627,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1533,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1295,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1712,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 27923,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "34": {
+      "precints": {
+        "1": {
+          "registered": 1273,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 704,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1957,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1032,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1774,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1250,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 585,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1113,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1977,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 853,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1322,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1195,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1648,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1582,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1495,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1931,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1886,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1783,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1276,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1621,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 28257,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "35": {
+      "precints": {
+        "1": {
+          "registered": 900,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1753,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1132,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1413,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1705,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 2350,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1960,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 879,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1745,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1384,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1677,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 2166,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1563,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1318,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1796,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 2135,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1644,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1072,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1305,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 718,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1375,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1595,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33585,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "36": {
+      "precints": {
+        "1": {
+          "registered": 895,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1138,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 827,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1126,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1084,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 853,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 852,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 470,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1795,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1726,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1074,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 771,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 502,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1334,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 689,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 574,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1166,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1156,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1671,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1548,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1008,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1284,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1152,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1274,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1438,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1327,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1551,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 30285,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "37": {
+      "precints": {
+        "1": {
+          "registered": 1622,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1490,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1424,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1229,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1144,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1699,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1423,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1701,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 839,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1074,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1274,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1634,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1239,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1553,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1519,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1566,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1137,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1354,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1336,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1785,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1152,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1411,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 30605,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "38": {
+      "precints": {
+        "1": {
+          "registered": 1661,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 929,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1315,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1181,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1640,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1137,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1431,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1185,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1280,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1190,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1255,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1790,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1039,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1172,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1272,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1810,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1337,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1769,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1793,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1595,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1778,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1237,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1680,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1639,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1675,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 35790,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "39": {
+      "precints": {
+        "1": {
+          "registered": 1022,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 670,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 803,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1055,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 863,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 827,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 701,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 882,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 811,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 895,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 764,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1839,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1475,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1624,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1367,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 803,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1684,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 816,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1987,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 905,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1858,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 811,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 119,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 889,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1082,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 835,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 909,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 889,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 248,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 596,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 847,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 1558,
+          "voted": 0,
+          "turnout": 0
+        },
+        "33": {
+          "registered": 562,
+          "voted": 0,
+          "turnout": 0
+        },
+        "34": {
+          "registered": 672,
+          "voted": 0,
+          "turnout": 0
+        },
+        "35": {
+          "registered": 1378,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 35046,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "40": {
+      "precints": {
+        "1": {
+          "registered": 1136,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1650,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1600,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1496,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1607,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1301,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1075,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1821,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1844,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1913,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1604,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1132,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1696,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1134,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1119,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1261,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1507,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1249,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1310,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1257,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1670,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1569,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 33763,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "41": {
+      "precints": {
+        "1": {
+          "registered": 1774,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 964,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1390,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1032,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 924,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1016,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 772,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 870,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1734,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1432,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 941,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 721,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1703,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1858,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1812,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 630,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 522,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1493,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 713,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 763,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 697,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 651,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 832,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1517,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1196,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1561,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1075,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1826,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1668,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 1470,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 1257,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 36814,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "42": {
+      "precints": {
+        "1": {
+          "registered": 621,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 661,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1763,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1440,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1686,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 673,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1293,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 945,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1658,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1180,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1438,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1071,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 558,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 465,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 648,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1817,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1928,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1396,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1724,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1690,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1932,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1737,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1702,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1742,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 31768,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "43": {
+      "precints": {
+        "1": {
+          "registered": 1410,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1938,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 606,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1144,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1680,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 2016,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1961,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1746,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 2134,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1491,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 938,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1877,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1277,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 826,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1721,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 700,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1766,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1985,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 2014,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1499,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 764,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 2036,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1254,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 34783,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "44": {
+      "precints": {
+        "1": {
+          "registered": 1764,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1355,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1429,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1912,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1412,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1454,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1611,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1651,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 2074,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1965,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1647,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1700,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1824,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1721,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1871,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1962,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1997,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1404,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 2034,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1125,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1943,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 35855,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "45": {
+      "precints": {
+        "1": {
+          "registered": 1802,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 891,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 601,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 589,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1051,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1114,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1236,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1192,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1391,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1256,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1586,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1178,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1270,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1047,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1162,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1229,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1578,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1566,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1138,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1420,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1298,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1121,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1350,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1273,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1689,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1555,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1306,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1534,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 1260,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 36683,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "46": {
+      "precints": {
+        "1": {
+          "registered": 1275,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1250,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1524,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1729,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1406,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 2090,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1446,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1666,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1655,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1377,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1791,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1968,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1793,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1198,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1936,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1736,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1924,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1773,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1565,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1752,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1012,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1810,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1365,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 37041,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "47": {
+      "precints": {
+        "1": {
+          "registered": 1214,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1182,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1186,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1478,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1691,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1642,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1942,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1384,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 1602,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1514,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1331,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1015,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1022,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1444,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1338,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1343,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1161,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1476,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 1569,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 1392,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1491,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1264,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1509,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1622,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1252,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 1597,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 1486,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1224,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 39371,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "48": {
+      "precints": {
+        "1": {
+          "registered": 1396,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 523,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1031,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 950,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 447,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 1419,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1160,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 886,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 608,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1220,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 862,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1501,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1003,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 1317,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1001,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 824,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 385,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 1655,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 722,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 436,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1559,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 616,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 832,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1810,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 1160,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 646,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 984,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1079,
+          "voted": 0,
+          "turnout": 0
+        },
+        "29": {
+          "registered": 355,
+          "voted": 0,
+          "turnout": 0
+        },
+        "30": {
+          "registered": 960,
+          "voted": 0,
+          "turnout": 0
+        },
+        "31": {
+          "registered": 1057,
+          "voted": 0,
+          "turnout": 0
+        },
+        "32": {
+          "registered": 1177,
+          "voted": 0,
+          "turnout": 0
+        },
+        "33": {
+          "registered": 426,
+          "voted": 0,
+          "turnout": 0
+        },
+        "34": {
+          "registered": 856,
+          "voted": 0,
+          "turnout": 0
+        },
+        "35": {
+          "registered": 1149,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 34012,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "49": {
+      "precints": {
+        "1": {
+          "registered": 1923,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1526,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 1916,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1774,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1816,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 193,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1916,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 2005,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 2029,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1245,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1678,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 1810,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1952,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 2041,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1872,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 1843,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1798,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 29337,
+        "voted": 0,
+        "turnout": 0
+      }
+    },
+    "50": {
+      "precints": {
+        "1": {
+          "registered": 1151,
+          "voted": 0,
+          "turnout": 0
+        },
+        "2": {
+          "registered": 1170,
+          "voted": 0,
+          "turnout": 0
+        },
+        "3": {
+          "registered": 880,
+          "voted": 0,
+          "turnout": 0
+        },
+        "4": {
+          "registered": 1162,
+          "voted": 0,
+          "turnout": 0
+        },
+        "5": {
+          "registered": 1523,
+          "voted": 0,
+          "turnout": 0
+        },
+        "6": {
+          "registered": 625,
+          "voted": 0,
+          "turnout": 0
+        },
+        "7": {
+          "registered": 1541,
+          "voted": 0,
+          "turnout": 0
+        },
+        "8": {
+          "registered": 1816,
+          "voted": 0,
+          "turnout": 0
+        },
+        "9": {
+          "registered": 308,
+          "voted": 0,
+          "turnout": 0
+        },
+        "10": {
+          "registered": 1222,
+          "voted": 0,
+          "turnout": 0
+        },
+        "11": {
+          "registered": 1305,
+          "voted": 0,
+          "turnout": 0
+        },
+        "12": {
+          "registered": 394,
+          "voted": 0,
+          "turnout": 0
+        },
+        "13": {
+          "registered": 1514,
+          "voted": 0,
+          "turnout": 0
+        },
+        "14": {
+          "registered": 264,
+          "voted": 0,
+          "turnout": 0
+        },
+        "15": {
+          "registered": 1450,
+          "voted": 0,
+          "turnout": 0
+        },
+        "16": {
+          "registered": 256,
+          "voted": 0,
+          "turnout": 0
+        },
+        "17": {
+          "registered": 1028,
+          "voted": 0,
+          "turnout": 0
+        },
+        "18": {
+          "registered": 171,
+          "voted": 0,
+          "turnout": 0
+        },
+        "19": {
+          "registered": 910,
+          "voted": 0,
+          "turnout": 0
+        },
+        "20": {
+          "registered": 673,
+          "voted": 0,
+          "turnout": 0
+        },
+        "21": {
+          "registered": 1590,
+          "voted": 0,
+          "turnout": 0
+        },
+        "22": {
+          "registered": 1746,
+          "voted": 0,
+          "turnout": 0
+        },
+        "23": {
+          "registered": 1561,
+          "voted": 0,
+          "turnout": 0
+        },
+        "24": {
+          "registered": 1694,
+          "voted": 0,
+          "turnout": 0
+        },
+        "25": {
+          "registered": 358,
+          "voted": 0,
+          "turnout": 0
+        },
+        "26": {
+          "registered": 898,
+          "voted": 0,
+          "turnout": 0
+        },
+        "27": {
+          "registered": 272,
+          "voted": 0,
+          "turnout": 0
+        },
+        "28": {
+          "registered": 1151,
+          "voted": 0,
+          "turnout": 0
+        }
+      },
+      "total": {
+        "registered": 28633,
+        "voted": 0,
+        "turnout": 0
+      }
+    }
+  },
+  "total": {
+    "registered": 1587153,
+    "voted": 0,
+    "turnout": 0
+  }
+}
