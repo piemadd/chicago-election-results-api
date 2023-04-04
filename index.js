@@ -73,7 +73,7 @@ const parseTurnout = async (data) => {
     const maxLine = Number(sheet['!ref'].split(':')[1].replace(/[A-Z]/g, ''));
 
     allResults['wards'][resultingSheetName] = allResults['wards'][resultingSheetName] || {
-      precints: {}
+      precincts: {}
     };
 
     allResults['wards'][resultingSheetName]['registered'] = sheet[`B${maxLine}`]['v'];
@@ -85,10 +85,10 @@ const parseTurnout = async (data) => {
       const registered = sheet[`B${i}`]['v'];
       const turnout = sheet[`D${i}`]['v'];
 
-      allResults['wards'][resultingSheetName]['precints'][precinct] = allResults['wards'][resultingSheetName]['precints'][precinct] || {};
+      allResults['wards'][resultingSheetName]['precincts'][precinct] = allResults['wards'][resultingSheetName]['precincts'][precinct] || {};
 
-      allResults['wards'][resultingSheetName]['precints'][precinct]['registered'] = registered;
-      allResults['wards'][resultingSheetName]['precints'][precinct]['turnout'] = turnout;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['registered'] = registered;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['turnout'] = turnout;
     }
   })
 };
@@ -116,7 +116,7 @@ const parseVotes = async (data) => {
     const maxLine = Number(sheet['!ref'].split(':')[1].replace(/[A-Z]/g, ''));
 
     allResults['wards'][resultingSheetName] = allResults['wards'][resultingSheetName] || {
-      precints: {}
+      precincts: {}
     };
 
     allResults['wards'][resultingSheetName]['votes'] = sheet[`B${maxLine}`]['v'];
@@ -133,13 +133,13 @@ const parseVotes = async (data) => {
       const votesVallas = sheet[`E${i}`]['v'];
       const percentVallas = sheet[`F${i}`]['v'];
 
-      allResults['wards'][resultingSheetName]['precints'][precinct] = allResults['wards'][resultingSheetName]['precints'][precinct] || {};
+      allResults['wards'][resultingSheetName]['precincts'][precinct] = allResults['wards'][resultingSheetName]['precincts'][precinct] || {};
 
-      allResults['wards'][resultingSheetName]['precints'][precinct]['votes'] = votes;
-      allResults['wards'][resultingSheetName]['precints'][precinct]['votesJohnson'] = votesJohnson;
-      allResults['wards'][resultingSheetName]['precints'][precinct]['percentJohnson'] = percentJohnson;
-      allResults['wards'][resultingSheetName]['precints'][precinct]['votesVallas'] = votesVallas;
-      allResults['wards'][resultingSheetName]['precints'][precinct]['percentVallas'] = percentVallas;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['votes'] = votes;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['votesJohnson'] = votesJohnson;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['percentJohnson'] = percentJohnson;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['votesVallas'] = votesVallas;
+      allResults['wards'][resultingSheetName]['precincts'][precinct]['percentVallas'] = percentVallas;
     }
   })
 };

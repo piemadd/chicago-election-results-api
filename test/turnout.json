@@ -1,7 +1,7 @@
 {
   "wards": {
     "1": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1512,
           "voted": 0,
@@ -140,7 +140,7 @@
       }
     },
     "2": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1779,
           "voted": 0,
@@ -274,7 +274,7 @@
       }
     },
     "3": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1838,
           "voted": 0,
@@ -418,7 +418,7 @@
       }
     },
     "4": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1779,
           "voted": 0,
@@ -567,7 +567,7 @@
       }
     },
     "5": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1684,
           "voted": 0,
@@ -701,7 +701,7 @@
       }
     },
     "6": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 797,
           "voted": 0,
@@ -845,7 +845,7 @@
       }
     },
     "7": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1786,
           "voted": 0,
@@ -1009,7 +1009,7 @@
       }
     },
     "8": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1836,
           "voted": 0,
@@ -1168,7 +1168,7 @@
       }
     },
     "9": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1283,
           "voted": 0,
@@ -1327,7 +1327,7 @@
       }
     },
     "10": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 748,
           "voted": 0,
@@ -1461,7 +1461,7 @@
       }
     },
     "11": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 812,
           "voted": 0,
@@ -1585,7 +1585,7 @@
       }
     },
     "12": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 756,
           "voted": 0,
@@ -1704,7 +1704,7 @@
       }
     },
     "13": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 736,
           "voted": 0,
@@ -1913,7 +1913,7 @@
       }
     },
     "14": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1657,
           "voted": 0,
@@ -1997,7 +1997,7 @@
       }
     },
     "15": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 745,
           "voted": 0,
@@ -2106,7 +2106,7 @@
       }
     },
     "16": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1421,
           "voted": 0,
@@ -2240,7 +2240,7 @@
       }
     },
     "17": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1498,
           "voted": 0,
@@ -2394,7 +2394,7 @@
       }
     },
     "18": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1525,
           "voted": 0,
@@ -2533,7 +2533,7 @@
       }
     },
     "19": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1429,
           "voted": 0,
@@ -2722,7 +2722,7 @@
       }
     },
     "20": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1153,
           "voted": 0,
@@ -2846,7 +2846,7 @@
       }
     },
     "21": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1828,
           "voted": 0,
@@ -3000,7 +3000,7 @@
       }
     },
     "22": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 775,
           "voted": 0,
@@ -3104,7 +3104,7 @@
       }
     },
     "23": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 563,
           "voted": 0,
@@ -3278,7 +3278,7 @@
       }
     },
     "24": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 790,
           "voted": 0,
@@ -3387,7 +3387,7 @@
       }
     },
     "25": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1649,
           "voted": 0,
@@ -3481,7 +3481,7 @@
       }
     },
     "26": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 924,
           "voted": 0,
@@ -3650,7 +3650,7 @@
       }
     },
     "27": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1242,
           "voted": 0,
@@ -3804,7 +3804,7 @@
       }
     },
     "28": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1163,
           "voted": 0,
@@ -3943,7 +3943,7 @@
       }
     },
     "29": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1593,
           "voted": 0,
@@ -4072,7 +4072,7 @@
       }
     },
     "30": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1495,
           "voted": 0,
@@ -4211,7 +4211,7 @@
       }
     },
     "31": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1181,
           "voted": 0,
@@ -4335,7 +4335,7 @@
       }
     },
     "32": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1930,
           "voted": 0,
@@ -4494,7 +4494,7 @@
       }
     },
     "33": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1952,
           "voted": 0,
@@ -4588,7 +4588,7 @@
       }
     },
     "34": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1273,
           "voted": 0,
@@ -4697,7 +4697,7 @@
       }
     },
     "35": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 900,
           "voted": 0,
@@ -4816,7 +4816,7 @@
       }
     },
     "36": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 895,
           "voted": 0,
@@ -4960,7 +4960,7 @@
       }
     },
     "37": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1622,
           "voted": 0,
@@ -5079,7 +5079,7 @@
       }
     },
     "38": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1661,
           "voted": 0,
@@ -5213,7 +5213,7 @@
       }
     },
     "39": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1022,
           "voted": 0,
@@ -5397,7 +5397,7 @@
       }
     },
     "40": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1136,
           "voted": 0,
@@ -5521,7 +5521,7 @@
       }
     },
     "41": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1774,
           "voted": 0,
@@ -5685,7 +5685,7 @@
       }
     },
     "42": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 621,
           "voted": 0,
@@ -5814,7 +5814,7 @@
       }
     },
     "43": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1410,
           "voted": 0,
@@ -5938,7 +5938,7 @@
       }
     },
     "44": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1764,
           "voted": 0,
@@ -6052,7 +6052,7 @@
       }
     },
     "45": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1802,
           "voted": 0,
@@ -6206,7 +6206,7 @@
       }
     },
     "46": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1275,
           "voted": 0,
@@ -6330,7 +6330,7 @@
       }
     },
     "47": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1214,
           "voted": 0,
@@ -6479,7 +6479,7 @@
       }
     },
     "48": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1396,
           "voted": 0,
@@ -6663,7 +6663,7 @@
       }
     },
     "49": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1923,
           "voted": 0,
@@ -6757,7 +6757,7 @@
       }
     },
     "50": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1151,
           "voted": 0,

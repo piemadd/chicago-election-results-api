@@ -1,7 +1,7 @@
 {
   "wards": {
     "1": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1512,
           "turnout": 0,
@@ -246,7 +246,7 @@
       "percentVallas": 0
     },
     "2": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1779,
           "turnout": 0,
@@ -482,7 +482,7 @@
       "percentVallas": 0
     },
     "3": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1838,
           "turnout": 0,
@@ -736,7 +736,7 @@
       "percentVallas": 0
     },
     "4": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1779,
           "turnout": 0,
@@ -999,7 +999,7 @@
       "percentVallas": 0
     },
     "5": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1684,
           "turnout": 0,
@@ -1235,7 +1235,7 @@
       "percentVallas": 0
     },
     "6": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 797,
           "turnout": 0,
@@ -1489,7 +1489,7 @@
       "percentVallas": 0
     },
     "7": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1786,
           "turnout": 0,
@@ -1779,7 +1779,7 @@
       "percentVallas": 0
     },
     "8": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1836,
           "turnout": 0,
@@ -2060,7 +2060,7 @@
       "percentVallas": 0
     },
     "9": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1283,
           "turnout": 0,
@@ -2341,7 +2341,7 @@
       "percentVallas": 0
     },
     "10": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 748,
           "turnout": 0,
@@ -2577,7 +2577,7 @@
       "percentVallas": 0
     },
     "11": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 812,
           "turnout": 0,
@@ -2795,7 +2795,7 @@
       "percentVallas": 0
     },
     "12": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 756,
           "turnout": 0,
@@ -3004,7 +3004,7 @@
       "percentVallas": 0
     },
     "13": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 736,
           "turnout": 0,
@@ -3375,7 +3375,7 @@
       "percentVallas": 0
     },
     "14": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1657,
           "turnout": 0,
@@ -3521,7 +3521,7 @@
       "percentVallas": 0
     },
     "15": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 745,
           "turnout": 0,
@@ -3712,7 +3712,7 @@
       "percentVallas": 0
     },
     "16": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1421,
           "turnout": 0,
@@ -3948,7 +3948,7 @@
       "percentVallas": 0
     },
     "17": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1498,
           "turnout": 0,
@@ -4220,7 +4220,7 @@
       "percentVallas": 0
     },
     "18": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1525,
           "turnout": 0,
@@ -4465,7 +4465,7 @@
       "percentVallas": 0
     },
     "19": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1429,
           "turnout": 0,
@@ -4800,7 +4800,7 @@
       "percentVallas": 0
     },
     "20": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1153,
           "turnout": 0,
@@ -5018,7 +5018,7 @@
       "percentVallas": 0
     },
     "21": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1828,
           "turnout": 0,
@@ -5290,7 +5290,7 @@
       "percentVallas": 0
     },
     "22": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 775,
           "turnout": 0,
@@ -5472,7 +5472,7 @@
       "percentVallas": 0
     },
     "23": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 563,
           "turnout": 0,
@@ -5780,7 +5780,7 @@
       "percentVallas": 0
     },
     "24": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 790,
           "turnout": 0,
@@ -5971,7 +5971,7 @@
       "percentVallas": 0
     },
     "25": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1649,
           "turnout": 0,
@@ -6135,7 +6135,7 @@
       "percentVallas": 0
     },
     "26": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 924,
           "turnout": 0,
@@ -6434,7 +6434,7 @@
       "percentVallas": 0
     },
     "27": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1242,
           "turnout": 0,
@@ -6706,7 +6706,7 @@
       "percentVallas": 0
     },
     "28": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1163,
           "turnout": 0,
@@ -6951,7 +6951,7 @@
       "percentVallas": 0
     },
     "29": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1593,
           "turnout": 0,
@@ -7178,7 +7178,7 @@
       "percentVallas": 0
     },
     "30": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1495,
           "turnout": 0,
@@ -7423,7 +7423,7 @@
       "percentVallas": 0
     },
     "31": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1181,
           "turnout": 0,
@@ -7641,7 +7641,7 @@
       "percentVallas": 0
     },
     "32": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1930,
           "turnout": 0,
@@ -7922,7 +7922,7 @@
       "percentVallas": 0
     },
     "33": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1952,
           "turnout": 0,
@@ -8086,7 +8086,7 @@
       "percentVallas": 0
     },
     "34": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1273,
           "turnout": 0,
@@ -8277,7 +8277,7 @@
       "percentVallas": 0
     },
     "35": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 900,
           "turnout": 0,
@@ -8486,7 +8486,7 @@
       "percentVallas": 0
     },
     "36": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 895,
           "turnout": 0,
@@ -8740,7 +8740,7 @@
       "percentVallas": 0
     },
     "37": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1622,
           "turnout": 0,
@@ -8949,7 +8949,7 @@
       "percentVallas": 0
     },
     "38": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1661,
           "turnout": 0,
@@ -9185,7 +9185,7 @@
       "percentVallas": 0
     },
     "39": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1022,
           "turnout": 0,
@@ -9511,7 +9511,7 @@
       "percentVallas": 0
     },
     "40": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1136,
           "turnout": 0,
@@ -9729,7 +9729,7 @@
       "percentVallas": 0
     },
     "41": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1774,
           "turnout": 0,
@@ -10019,7 +10019,7 @@
       "percentVallas": 0
     },
     "42": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 621,
           "turnout": 0,
@@ -10246,7 +10246,7 @@
       "percentVallas": 0
     },
     "43": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1410,
           "turnout": 0,
@@ -10464,7 +10464,7 @@
       "percentVallas": 0
     },
     "44": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1764,
           "turnout": 0,
@@ -10664,7 +10664,7 @@
       "percentVallas": 0
     },
     "45": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1802,
           "turnout": 0,
@@ -10936,7 +10936,7 @@
       "percentVallas": 0
     },
     "46": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1275,
           "turnout": 0,
@@ -11154,7 +11154,7 @@
       "percentVallas": 0
     },
     "47": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1214,
           "turnout": 0,
@@ -11417,7 +11417,7 @@
       "percentVallas": 0
     },
     "48": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1396,
           "turnout": 0,
@@ -11743,7 +11743,7 @@
       "percentVallas": 0
     },
     "49": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1923,
           "turnout": 0,
@@ -11907,7 +11907,7 @@
       "percentVallas": 0
     },
     "50": {
-      "precints": {
+      "precincts": {
         "1": {
           "registered": 1151,
           "turnout": 0,

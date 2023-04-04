@@ -1,7 +1,7 @@
 {
   "wards": {
     "1": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -194,7 +194,7 @@
       }
     },
     "2": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -380,7 +380,7 @@
       }
     },
     "3": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -580,7 +580,7 @@
       }
     },
     "4": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -787,7 +787,7 @@
       }
     },
     "5": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -973,7 +973,7 @@
       }
     },
     "6": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -1173,7 +1173,7 @@
       }
     },
     "7": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -1401,7 +1401,7 @@
       }
     },
     "8": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -1622,7 +1622,7 @@
       }
     },
     "9": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -1843,7 +1843,7 @@
       }
     },
     "10": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2029,7 +2029,7 @@
       }
     },
     "11": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2201,7 +2201,7 @@
       }
     },
     "12": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2366,7 +2366,7 @@
       }
     },
     "13": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2657,7 +2657,7 @@
       }
     },
     "14": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2773,7 +2773,7 @@
       }
     },
     "15": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -2924,7 +2924,7 @@
       }
     },
     "16": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -3110,7 +3110,7 @@
       }
     },
     "17": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -3324,7 +3324,7 @@
       }
     },
     "18": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -3517,7 +3517,7 @@
       }
     },
     "19": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -3780,7 +3780,7 @@
       }
     },
     "20": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -3952,7 +3952,7 @@
       }
     },
     "21": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -4166,7 +4166,7 @@
       }
     },
     "22": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -4310,7 +4310,7 @@
       }
     },
     "23": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -4552,7 +4552,7 @@
       }
     },
     "24": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -4703,7 +4703,7 @@
       }
     },
     "25": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -4833,7 +4833,7 @@
       }
     },
     "26": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -5068,7 +5068,7 @@
       }
     },
     "27": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -5282,7 +5282,7 @@
       }
     },
     "28": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -5475,7 +5475,7 @@
       }
     },
     "29": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -5654,7 +5654,7 @@
       }
     },
     "30": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -5847,7 +5847,7 @@
       }
     },
     "31": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6019,7 +6019,7 @@
       }
     },
     "32": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6240,7 +6240,7 @@
       }
     },
     "33": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6370,7 +6370,7 @@
       }
     },
     "34": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6521,7 +6521,7 @@
       }
     },
     "35": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6686,7 +6686,7 @@
       }
     },
     "36": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -6886,7 +6886,7 @@
       }
     },
     "37": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -7051,7 +7051,7 @@
       }
     },
     "38": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -7237,7 +7237,7 @@
       }
     },
     "39": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -7493,7 +7493,7 @@
       }
     },
     "40": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -7665,7 +7665,7 @@
       }
     },
     "41": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -7893,7 +7893,7 @@
       }
     },
     "42": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8072,7 +8072,7 @@
       }
     },
     "43": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8244,7 +8244,7 @@
       }
     },
     "44": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8402,7 +8402,7 @@
       }
     },
     "45": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8616,7 +8616,7 @@
       }
     },
     "46": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8788,7 +8788,7 @@
       }
     },
     "47": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -8995,7 +8995,7 @@
       }
     },
     "48": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -9251,7 +9251,7 @@
       }
     },
     "49": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
@@ -9381,7 +9381,7 @@
       }
     },
     "50": {
-      "precints": {
+      "precincts": {
         "1": {
           "votes": 0,
           "votesJohnson": 0,
