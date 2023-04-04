@@ -5,6 +5,8 @@ const express = require('express');
 
 const app = express();
 
+const sampleData = JSON.parse(fs.readFileSync('./test/output.json', 'utf8'));
+
 let allResults = {
   wards: {}
 };
@@ -143,6 +145,8 @@ const parseVotes = async (data) => {
 };
 
 const updateData = (async () => {
+  if (new Date().valueOf() < 1680652800000) return;
+
   fetchElectionData('242', '', false)
     .then((turnoutRaw) => {
       parseTurnout(turnoutRaw)
@@ -163,12 +167,20 @@ const updateData = (async () => {
 app.get('/results', async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.json(allResults);
+  if (new Date().valueOf() < 1680652800000) {
+    res.json(sampleData)
+  } else {
+    res.json(allResults);
+  }
 });
 
 app.get('/islive', async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.send('live')
+  if (new Date().valueOf() < 1680652800000) {
+    res.send('notlive')
+  } else {
+    res.send('live')
+  }
 });
 
 app.get('/', async (req, res) => {
