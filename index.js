@@ -167,7 +167,7 @@ const updateData = (async () => {
 app.get('/results', async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.setHeader('Access-Control-Allow-Origin', '*');
-  if (new Date().valueOf() < 1680652800000) {
+  if (new Date().valueOf() < 1680652800000 + (1000 * 60 * 5)) {
     res.json(sampleData)
   } else {
     res.json(allResults);
@@ -176,7 +176,7 @@ app.get('/results', async (req, res) => {
 
 app.get('/islive', async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  if (new Date().valueOf() < 1680652800000) {
+  if (new Date().valueOf() < 1680652800000 + (1000 * 60 * 5)) {
     res.send('notlive')
   } else {
     res.send('live')
