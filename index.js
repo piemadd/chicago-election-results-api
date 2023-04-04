@@ -166,6 +166,11 @@ app.get('/results', async (req, res) => {
   res.json(allResults);
 });
 
+app.get('/islive', async (req, res) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.send('live')
+});
+
 app.get('/', async (req, res) => {
   res.redirect('/results');
 });
