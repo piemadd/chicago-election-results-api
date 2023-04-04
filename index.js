@@ -145,7 +145,7 @@ const parseVotes = async (data) => {
 };
 
 const updateData = (async () => {
-  if (new Date().valueOf() < 1680652800000) return;
+  if (new Date().valueOf() < (1680652800000 - (1000 * 60 * 5))) return;
 
   fetchElectionData('242', '', false)
     .then((turnoutRaw) => {
@@ -167,7 +167,7 @@ const updateData = (async () => {
 app.get('/results', async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.setHeader('Access-Control-Allow-Origin', '*');
-  if (new Date().valueOf() < 1680652800000 + (1000 * 60 * 5)) {
+  if (new Date().valueOf() < 1680652800000) {
     res.json(sampleData)
   } else {
     res.json(allResults);
@@ -176,7 +176,7 @@ app.get('/results', async (req, res) => {
 
 app.get('/islive', async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  if (new Date().valueOf() < 1680652800000 + (1000 * 60 * 5)) {
+  if (new Date().valueOf() < 1680652800000) {
     res.send('notlive')
   } else {
     res.send('live')
