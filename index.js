@@ -99,6 +99,9 @@ const parseVotes = async (data) => {
 
   votes.SheetNames.forEach((sheetName) => {
     const sheet = votes.Sheets[sheetName];
+
+    console.log(sheet)
+
     const resultingSheetName = sheet['A1']['v'].replace('Ward ', '');
 
     if (!sheet['A1']['v'].includes('Ward')) {
@@ -167,11 +170,11 @@ const updateData = (async () => {
 app.get('/results', async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.setHeader('Access-Control-Allow-Origin', '*');
-  if (new Date().valueOf() < 1680652800000) {
+  //if (new Date().valueOf() < 1680652800000) {
     res.json(sampleData)
-  } else {
-    res.json(allResults);
-  }
+  //} else {
+    //res.json(allResults);
+  //}
 });
 
 app.get('/islive', async (req, res) => {
