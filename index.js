@@ -7,9 +7,9 @@ const app = express();
 
 const sampleData = JSON.parse(fs.readFileSync('./test/output.json', 'utf8'));
 
-let allResults = {
-  wards: {}
-};
+let allResults = {};
+
+let last = new Date('2021-01-01').valueOf();
 
 const fetchElectionData = async (election = '242', race = '', useSaved = false) => {
   if (useSaved) {
@@ -26,155 +26,45 @@ const fetchElectionData = async (election = '242', race = '', useSaved = false) 
     }
   }
 
-  const orig = new Date().valueOf();
   console.log('fetching data for election', election, 'and race', race)
-  const res = await fetch(`https://chicagoelections.gov/en/data-export.asp?election=${election}&race=${race}&ward=&precinct=`, {
-    "credentials": "include",
+  const res = await fetch("https://www.politico.com/election-data/2023-04-04-live__2023-04-04__17__mayor__chicago__runoff/data.json", {
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+      "Accept": "*/*",
       "Accept-Language": "en-US,en;q=0.5",
-      "Upgrade-Insecure-Requests": "1",
-      "Sec-Fetch-Dest": "document",
-      "Sec-Fetch-Mode": "navigate",
+      "If-Modified-Since": new Date(last).toUTCString(),
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
       "Sec-Fetch-Site": "same-origin",
-      "Sec-Fetch-User": "?1",
       "Pragma": "no-cache",
       "Cache-Control": "no-cache"
     },
-    "referrer": "https://chicagoelections.gov/en/election-results-specifics.asp",
+    "referrer": "https://www.politico.com/2023-election/results/chicago-mayor/",
     "method": "GET",
   });
+  const data = await res.json()
+  last = new Date().valueOf();
 
-  console.log('data fetched', res.status)
-  console.log('took', new Date().valueOf() - orig, 'ms')
+  if (res.status !== 200) {
+    return allResults;
+  }
 
-  const data = await res.text()
   return data;
 }
-
-const parseTurnout = async (data) => {
-  const arrayBuffer = Uint8Array.from(data, x => x.charCodeAt(0))
-  const turnout = XLSX.read(arrayBuffer);
-
-  turnout.SheetNames.forEach((sheetName) => {
-    const sheet = turnout.Sheets[sheetName];
-    const resultingSheetName = sheet['A1']['v'].replace('WARD ', '');
-
-    if (!sheet['A1']['v'].includes('WARD')) {
-      allResults['total'] = allResults['total'] || {};
-
-      allResults['total']['registered'] = sheet[`A2`]['v'];
-      allResults['total']['turnout'] = sheet[`C2`]['v'];
-
-      return;
-    }
-
-    const maxLine = Number(sheet['!ref'].split(':')[1].replace(/[A-Z]/g, ''));
-
-    allResults['wards'][resultingSheetName] = allResults['wards'][resultingSheetName] || {
-      precincts: {}
-    };
-
-    allResults['wards'][resultingSheetName]['registered'] = sheet[`B${maxLine}`]['v'];
-    allResults['wards'][resultingSheetName]['turnout'] = sheet[`D${maxLine}`]['v'];
-
-
-    for (let i = 3; i < maxLine; i++) {
-      const precinct = sheet[`A${i}`]['v'];
-      const registered = sheet[`B${i}`]['v'];
-      const turnout = sheet[`D${i}`]['v'];
-
-      allResults['wards'][resultingSheetName]['precincts'][precinct] = allResults['wards'][resultingSheetName]['precincts'][precinct] || {};
-
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['registered'] = registered;
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['turnout'] = turnout;
-    }
-  })
-};
-
-const parseVotes = async (data) => {
-  const arrayBuffer = Uint8Array.from(data, x => x.charCodeAt(0))
-  const votes = XLSX.read(arrayBuffer);
-
-  votes.SheetNames.forEach((sheetName) => {
-    const sheet = votes.Sheets[sheetName];
-
-    console.log(sheet)
-
-    const resultingSheetName = sheet['A1']['v'].replace('Ward ', '');
-
-    if (!sheet['A1']['v'].includes('Ward')) {
-      allResults['total'] = allResults['total'] || {};
-
-      allResults['total']['votes'] = sheet[`A2`]['v'];
-      allResults['total']['votesJohnson'] = sheet[`B2`]['v'];
-      allResults['total']['percentJohnson'] = sheet[`C2`]['v'];
-      allResults['total']['votesVallas'] = sheet[`D2`]['v'];
-      allResults['total']['percentVallas'] = sheet[`E2`]['v'];
-
-      return;
-    }
-
-    const maxLine = Number(sheet['!ref'].split(':')[1].replace(/[A-Z]/g, ''));
-
-    allResults['wards'][resultingSheetName] = allResults['wards'][resultingSheetName] || {
-      precincts: {}
-    };
-
-    allResults['wards'][resultingSheetName]['votes'] = sheet[`B${maxLine}`]['v'];
-    allResults['wards'][resultingSheetName]['votesJohnson'] = sheet[`C${maxLine}`]['v'];
-    allResults['wards'][resultingSheetName]['percentJohnson'] = sheet[`D${maxLine}`]['v'];
-    allResults['wards'][resultingSheetName]['votesVallas'] = sheet[`E${maxLine}`]['v'];
-    allResults['wards'][resultingSheetName]['percentVallas'] = sheet[`F${maxLine}`]['v'];
-
-    for (let i = 3; i < maxLine; i++) {
-      const precinct = sheet[`A${i}`]['v'];
-      const votes = sheet[`B${i}`]['v'];
-      const votesJohnson = sheet[`C${i}`]['v'];
-      const percentJohnson = sheet[`D${i}`]['v'];
-      const votesVallas = sheet[`E${i}`]['v'];
-      const percentVallas = sheet[`F${i}`]['v'];
-
-      allResults['wards'][resultingSheetName]['precincts'][precinct] = allResults['wards'][resultingSheetName]['precincts'][precinct] || {};
-
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['votes'] = votes;
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['votesJohnson'] = votesJohnson;
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['percentJohnson'] = percentJohnson;
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['votesVallas'] = votesVallas;
-      allResults['wards'][resultingSheetName]['precincts'][precinct]['percentVallas'] = percentVallas;
-    }
-  })
-};
 
 const updateData = (async () => {
   if (new Date().valueOf() < (1680652800000 - (1000 * 60 * 5))) return;
 
   fetchElectionData('242', '', false)
-    .then((turnoutRaw) => {
-      parseTurnout(turnoutRaw)
-        .then(() => {
-          fs.writeFileSync('./test/output.json', JSON.stringify(allResults, null, 2));
-        })
-    })
-
-  fetchElectionData('242', '11', false)
-    .then((votesRaw) => {
-      parseVotes(votesRaw)
-        .then(() => {
-          fs.writeFileSync('./test/output.json', JSON.stringify(allResults, null, 2));
-        })
+    .then((data) => {
+      allResults = data
     })
 });
 
 app.get('/results', async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.setHeader('Access-Control-Allow-Origin', '*');
-  //if (new Date().valueOf() < 1680652800000) {
-    res.json(sampleData)
-  //} else {
-    //res.json(allResults);
-  //}
+  res.json(allResults);
 });
 
 app.get('/islive', async (req, res) => {
